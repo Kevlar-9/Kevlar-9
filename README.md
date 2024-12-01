@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevlar-9
 - 👀 I’m interested in video games,reading and football
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning java and databases 
 - 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me fsiripi@st.ug.edu.gh or 0546776686
 - ⚡ Fun fact: Massive Chelsea fan
